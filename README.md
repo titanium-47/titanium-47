@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @titanium-47
+- 👋 Hi, I’m Sidharth R.
+
+I write code in C++, and Assembly language.
