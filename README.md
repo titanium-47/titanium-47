@@ -1,1 +1,2 @@
-A senior at Redmond High School who writes code in C++, and Java.
+Computer Engineering Student at the Univeristy of Washington
+Writes code in Python, C++, and Java
