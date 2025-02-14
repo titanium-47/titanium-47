@@ -1,2 +1,1 @@
-Computer Engineering Student at the Univeristy of Washington<br />
-Writes code in Python, C++, and Java
+Computer Science Student at the Univeristy of Washington
